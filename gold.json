@@ -1,0 +1,803 @@
+[
+    {
+      "qid": 1,
+      "answer": "To enter the United States in F-1 status, you must carry a valid passport (valid for at least six months beyond entry), a valid F-1 visa, your original Form I-20 signed by a DSO, and proof of SEVIS fee payment. These documents are required by DHS and CBP for entry."
+    },
+    {
+      "qid": 2,
+      "answer": "No. F-1 students may not enter the United States more than 30 days before the program start date listed on the Form I-20. This limit is set by DHS regulations."
+    },
+    {
+      "qid": 3,
+      "answer": "No. Form I-20 is not 'activated' at the border. CBP admits the student in F-1 status, and the SEVIS record becomes active after the school reports registration to SEVP."
+    },
+    {
+      "qid": 4,
+      "answer": "Yes. Although not specifically required by regulation, CBP may request proof of financial ability at the port of entry. Carrying financial documents is recommended because it assists with verifying nonimmigrant intent and funding."
+    },
+    {
+      "qid": 5,
+      "answer": "A valid visa is required only for entry to the United States. If your F-1 visa expires while you are inside the U.S., you may remain as long as you maintain lawful F-1 status. A valid visa is required only for reentry after travel abroad."
+    },
+    {
+      "qid": 6,
+      "answer": "Yes. USCIS permits F-1 students to bring dependents in F-2 status. Each dependent must have a separate Form I-20 issued for them and must apply for an F-2 visa to enter the U.S."
+    },
+    {
+      "qid": 7,
+      "answer": "USCIS does not mandate health insurance for F-1 students before arrival. However, many schools require insurance as an enrollment condition. Federal law only requires health insurance for J-1/J-2, not F-1/F-2."
+    },
+    {
+      "qid": 8,
+      "answer": "Your SEVIS ID number is printed on the Form I-20 issued by your school. It begins with the letter 'N' and is assigned by SEVP when your school creates your SEVIS record."
+    },
+    {
+      "qid": 9,
+      "answer": "No. F-1 students may not work immediately upon arrival. On-campus employment is allowed only after the program start date. Off-campus employment is prohibited without prior authorization such as CPT or OPT."
+    },
+    {
+      "qid": 10,
+      "answer": "USCIS does not regulate arrival-week activities. However, SEVP requires schools to report registration in SEVIS at the start of the academic term. Students must complete school check-in procedures to maintain status."
+    },
+    {
+      "qid": 11,
+      "answer": "You may apply for CPT only after completing one full academic year in valid F-1 status, unless your graduate program requires immediate training. This requirement is set by federal CPT regulations."
+    },
+    {
+      "qid": 12,
+      "answer": "Yes. CPT must be directly related to your major field of study. This requirement is defined in SEVP guidance and DHS regulations for curricular training."
+    },
+    {
+      "qid": 13,
+      "answer": "Yes. Part-time CPT (20 hours or fewer per week) is permitted during the academic term if authorized by your DSO and required by your curriculum. This is allowed by DHS regulations."
+    },
+    {
+      "qid": 14,
+      "answer": "USCIS does not process CPT; schools issue CPT authorization. Processing time varies by school as CPT is an institutional decision, not a USCIS adjudication."
+    },
+    {
+      "qid": 15,
+      "answer": "Yes. A job offer is required for CPT because your DSO must enter employer information into SEVIS before authorizing training. CPT cannot be granted without a specific employer."
+    },
+    {
+      "qid": 16,
+      "answer": "Yes, but only if each position is integral to your curriculum and separately authorized for CPT in SEVIS. There is no federal restriction on multiple CPT employers, but each must meet CPT eligibility rules."
+    },
+    {
+      "qid": 17,
+      "answer": "CPT does not affect OPT eligibility unless you engage in 12 months or more of full-time CPT. Federal regulations state that 12+ months of full-time CPT eliminates OPT eligibility. Part-time CPT does not affect OPT."
+    },
+    {
+      "qid": 18,
+      "answer": "CPT documentation typically includes your Form I-20 with CPT authorization on page 2 and any school-required forms. USCIS does not adjudicate CPT, so the required documents are determined by the school."
+    },
+    {
+      "qid": 19,
+      "answer": "No. Students may not begin CPT employment until the CPT authorization appears on page 2 of the Form I-20. Working before authorization is considered unauthorized employment under DHS regulations."
+    },
+    {
+      "qid": 20,
+      "answer": "There is no federal limit on total CPT duration. However, accumulating 12 months of full-time CPT eliminates OPT eligibility. Part-time CPT does not count toward this limit."
+    },
+    {
+      "qid": 21,
+      "answer": "Students may submit an OPT application up to 90 days before their program end date. USCIS recommends applying as early as possible during this 90-day window."
+    },
+    {
+      "qid": 22,
+      "answer": "The earliest you may apply for OPT is 90 days before your program end date, as allowed by federal regulation for post-completion OPT."
+    },
+    {
+      "qid": 23,
+      "answer": "No. A job offer is not required to apply for OPT. USCIS allows students to request OPT without securing employment."
+    },
+    {
+      "qid": 24,
+      "answer": "OPT processing time varies, but USCIS typically takes 1–3 months to adjudicate Form I-765 for OPT. USCIS does not guarantee processing times."
+    },
+    {
+      "qid": 25,
+      "answer": "Yes, but travel while OPT is pending carries risk. USCIS permits travel while the OPT application is pending, but reentry may be denied without an issued EAD and job offer letter. USCIS warns of these risks."
+    },
+    {
+      "qid": 26,
+      "answer": "If OPT is denied, the student loses eligibility to work under OPT. SEVP guidance states the student may remain in the U.S. during the grace period or consider other options such as reinstatement or departing the country."
+    },
+    {
+      "qid": 27,
+      "answer": "No. If you have engaged in 12 months or more of full-time CPT, you are ineligible for OPT. This restriction is defined in federal F-1 employment regulations."
+    },
+    {
+      "qid": 28,
+      "answer": "OPT applications require Form I-765, a new Form I-20 with OPT recommendation, passport photos, filing fee, and supporting identity documents. These requirements are listed by USCIS for Form I-765 eligibility."
+    },
+    {
+      "qid": 29,
+      "answer": "USCIS allows students to use any valid mailing address for Form I-765. However, the address must be one where the student can reliably receive mail. USCIS mails the EAD card to the address on the I-765."
+    },
+    {
+      "qid": 30,
+      "answer": "No. OPT allows only employment directly related to the student’s major field of study. Freelance or self-employment is allowed only if it is related to the field. Irrelevant freelance work is not permitted."
+    },
+    {
+      "qid": 31,
+      "answer": "Yes. A U.S. degree in computer science qualifies for the STEM OPT extension because it appears on the DHS STEM Designated Degree Program List."
+    },
+    {
+      "qid": 32,
+      "answer": "Students may apply for STEM OPT up to 90 days before their OPT end date. USCIS requires that the application be filed before the initial OPT period expires."
+    },
+    {
+      "qid": 33,
+      "answer": "Yes. Students must be employed by an E-Verify employer to apply for the STEM extension. This requirement is mandated by DHS for all STEM OPT applicants."
+    },
+    {
+      "qid": 34,
+      "answer": "Form I-983 is the training plan required for the STEM OPT extension. It must be completed jointly by the student and employer, describing training goals and evaluations, as required by DHS for STEM OPT compliance."
+    },
+    {
+      "qid": 35,
+      "answer": "Yes. Students may change employers during STEM OPT if the new employer is E-Verify enrolled and a new Form I-983 is submitted. DHS requires a new training plan for each employer."
+    },
+    {
+      "qid": 36,
+      "answer": "STEM OPT students have an additional 60 days of unemployment allowed, for a total of 150 days across OPT and STEM OPT. This limit is mandated by DHS policy."
+    },
+    {
+      "qid": 37,
+      "answer": "Yes. STEM OPT employers must be enrolled in E-Verify. This requirement is stated in DHS regulations governing the STEM extension."
+    },
+    {
+      "qid": 38,
+      "answer": "Students may engage in consulting work during STEM OPT only if the employment meets DHS STEM OPT rules: employer is E-Verify, training plan is completed, and the work is directly related to the field of study."
+    },
+    {
+      "qid": 39,
+      "answer": "STEM OPT may be extended only once for 24 months after the initial 12-month OPT period. There are no additional STEM extensions permitted."
+    },
+    {
+      "qid": 40,
+      "answer": "If a STEM OPT student loses employment, they must report the change and may begin accruing unemployment days. DHS allows up to 150 total unemployment days across OPT + STEM."
+    },
+    {
+      "qid": 41,
+      "answer": "Students on post-completion OPT are allowed up to 90 days of unemployment. This limit is established by DHS regulations."
+    },
+    {
+      "qid": 42,
+      "answer": "If you lose your job on OPT, SEVP requires students to update their employment in SEVIS. USCIS regulations permit remaining in the U.S. during the unemployment period as long as the total does not exceed 90 days."
+    },
+    {
+      "qid": 43,
+      "answer": "Yes. Unpaid volunteer work may count toward employment on OPT if it is directly related to the student’s major and involves at least 20 hours per week. This is allowed under DHS employment guidance."
+    },
+    {
+      "qid": 44,
+      "answer": "No. Job searching does not count as employment. DHS requires actual employment to stop unemployment days from accruing."
+    },
+    {
+      "qid": 45,
+      "answer": "DSOs update SEVIS with employment information, but USCIS does not require any separate unemployment reporting. Students must ensure SEVIS contains accurate employment dates to stop unemployment accrual."
+    },
+    {
+      "qid": 46,
+      "answer": "Exceeding 90 days of unemployment results in loss of F-1 status. SEVP guidance states the student must depart the U.S., transfer to another program, change status, or file for reinstatement."
+    },
+    {
+      "qid": 47,
+      "answer": "No. Gig economy work is not permitted unless it is directly related to the major field of study and meets USCIS requirements for OPT employment. Unauthorized work results in a status violation."
+    },
+    {
+      "qid": 48,
+      "answer": "USCIS does not instruct students whether to leave the U.S. However, SEVP requires students to maintain status. If employment cannot be secured within the allowed unemployment days, the student must take action such as departing the U.S. or changing status."
+    },
+    {
+      "qid": 49,
+      "answer": "Yes. STEM OPT students may accrue up to an additional 60 days of unemployment, for a total of 150 days. This is stated in DHS policy."
+    },
+    {
+      "qid": 50,
+      "answer": "Yes. Students may change to another nonimmigrant status, such as H-4 or B-2, if they follow proper USCIS change-of-status procedures before their status expires."
+    },
+    {
+        "qid": 51,
+        "answer": "Yes. F-1 students on approved OPT may travel internationally, but reentry requires a valid F-1 visa, passport, I-20 with recent travel signature, EAD card, and proof of employment. USCIS cautions that reentry is never guaranteed."
+      },
+      {
+        "qid": 52,
+        "answer": "To re-enter the U.S. during OPT, you must carry a valid passport, valid F-1 visa, I-20 signed for travel within the last six months, EAD card, and proof of employment or job offer. These requirements are outlined by DHS and SEVP."
+      },
+      {
+        "qid": 53,
+        "answer": "Yes. A valid F-1 visa is required for reentry during OPT unless you qualify for automatic visa revalidation for limited travel to Canada or Mexico. USCIS requires a valid visa for standard reentry."
+      },
+      {
+        "qid": 54,
+        "answer": "Travel while the OPT EAD is pending is permitted, but reentry can be denied if you cannot present an EAD and proof of employment. DHS states that travel while OPT is pending carries risk."
+      },
+      {
+        "qid": 55,
+        "answer": "If your F-1 visa expires while you are inside the U.S., you may remain legally as long as you maintain F-1 status. You need a new visa only if you depart and attempt reentry."
+      },
+      {
+        "qid": 56,
+        "answer": "Your DSO must sign page 2 of the Form I-20 for travel. DHS guidance states travel signatures are valid for six months for OPT students."
+      },
+      {
+        "qid": 57,
+        "answer": "No. Students may not reenter the U.S. in F-1 status during the 60-day grace period after OPT or program completion. USCIS permits only departure or change of status during this period."
+      },
+      {
+        "qid": 58,
+        "answer": "If denied entry, CBP may allow withdrawal of application for admission or issue expedited removal. SEVP guidance states students must contact their school and may need a new SEVIS record to return."
+      },
+      {
+        "qid": 59,
+        "answer": "While not required by regulation, SEVP advises carrying a job offer letter or employment verification when traveling during OPT to demonstrate ongoing employment."
+      },
+      {
+        "qid": 60,
+        "answer": "Yes. Students on OPT may travel multiple times as long as they maintain valid documentation for each reentry, including a valid visa, I-20, EAD, and employment proof."
+      },
+      {
+        "qid": 61,
+        "answer": "H-1B petitions may be filed during the annual filing window set by USCIS, typically beginning in April after the cap registration period. Employers must file before the cap is reached."
+      },
+      {
+        "qid": 62,
+        "answer": "If your STEM OPT expires before H-1B begins, you may be eligible for cap-gap extension if your employer filed a timely H-1B petition requesting change of status. This extends work authorization until September 30."
+      },
+      {
+        "qid": 63,
+        "answer": "Cap-gap extension applies to F-1 students with pending or approved H-1B change-of-status petitions filed before OPT expires. DHS automatically extends work authorization until H-1B begins on October 1."
+      },
+      {
+        "qid": 64,
+        "answer": "No. If your H-1B petition requests change of status and you maintain F-1 status, you do not need to leave the U.S. to activate H-1B. If you depart before the petition is approved, you may need consular processing."
+      },
+      {
+        "qid": 65,
+        "answer": "Yes. An H-1B petition may be transferred to a new employer if the new employer files a new H-1B petition. USCIS allows portability under AC21 rules."
+      },
+      {
+        "qid": 66,
+        "answer": "If an H-1B petition is denied, the cap-gap extension ends and the student enters the 60-day grace period if available. SEVP states the student must depart, change status, or transfer SEVIS record."
+      },
+      {
+        "qid": 67,
+        "answer": "Cap-gap extensions last until September 30 if a timely H-1B petition requesting change of status is filed. If the petition is rejected, denied, or withdrawn, the extension immediately ends."
+      },
+      {
+        "qid": 68,
+        "answer": "Travel is generally not permitted during cap-gap extension if the change-of-status H-1B petition is pending. USCIS states students who travel abandon the change-of-status request."
+      },
+      {
+        "qid": 69,
+        "answer": "Premium processing is optional and accelerates USCIS adjudication time for H-1B petitions. Regular processing times vary. Both follow the same eligibility criteria."
+      },
+      {
+        "qid": 70,
+        "answer": "For H-1B visa stamping, applicants typically need a valid passport, H-1B approval notice (I-797), employment verification, and the DS-160 confirmation. Requirements are set by DOS consulates, not USCIS."
+      },
+      {
+        "qid": 71,
+        "answer": "Yes. Remote CPT is permitted if the work meets CPT requirements and the employer-employee relationship is maintained. DHS does not prohibit remote CPT but requires that the training be integral to the curriculum."
+      },
+      {
+        "qid": 72,
+        "answer": "No. There is no USCIS requirement that the employer be in the same state as the university. CPT and OPT employment may occur anywhere in the U.S. as long as SEVIS reporting requirements are met."
+      },
+      {
+        "qid": 73,
+        "answer": "Yes. Students on OPT may work remotely if the employment is directly related to their major field of study and meets USCIS employment criteria."
+      },
+      {
+        "qid": 74,
+        "answer": "Yes. USCIS requires students on OPT or STEM OPT to report address changes within 10 days. This is a legal requirement for all nonimmigrants."
+      },
+      {
+        "qid": 75,
+        "answer": "USCIS does not regulate remote work from abroad. However, reentry requires proper F-1 documentation, and time abroad may affect maintenance of status depending on school reporting."
+      },
+      {
+        "qid": 76,
+        "answer": "Students may use any reliable U.S. mailing address for EAD delivery. USCIS mails the EAD card to the address listed on Form I-765."
+      },
+      {
+        "qid": 77,
+        "answer": "Yes, if the employer is E-Verify and the work meets STEM OPT requirements including training plan obligations. DHS allows remote STEM OPT if regulatory conditions are met."
+      },
+      {
+        "qid": 78,
+        "answer": "Yes. All F-1 students must report changes of U.S. address within 10 days. This requirement is mandated by DHS regulations for nonimmigrants."
+      },
+      {
+        "qid": 79,
+        "answer": "Yes. Students may live in one state and work remotely in another. USCIS does not regulate physical work location if employment meets OPT requirements."
+      },
+      {
+        "qid": 80,
+        "answer": "Remote work does not violate F-1 status if the job meets the regulatory requirements for CPT, OPT, or STEM OPT. DHS does not restrict remote job locations."
+      },
+      {
+        "qid": 81,
+        "answer": "Yes. Students may have multiple OPT employers if each job is directly related to the major field of study and is appropriately reported in SEVIS."
+      },
+      {
+        "qid": 82,
+        "answer": "Self-employment or freelance consulting is permitted on OPT if the work is related to the student’s degree and the student maintains proper business licensing where required."
+      },
+      {
+        "qid": 83,
+        "answer": "Students may start a business on F-1 status only if any work they perform is authorized under OPT or CPT and is directly related to the major. USCIS prohibits unauthorized employment."
+      },
+      {
+        "qid": 84,
+        "answer": "Yes. All employers must be reported in SEVIS during OPT and STEM OPT. DHS requires accurate employment reporting to maintain status."
+      },
+      {
+        "qid": 85,
+        "answer": "Part-time contracting is allowed during STEM OPT only if the employer is E-Verify, a detailed training plan is completed, and the position meets DHS STEM OPT regulations."
+      },
+      {
+        "qid": 86,
+        "answer": "Yes. Passive investment income such as returns from stocks or rental properties is allowed. USCIS does not consider passive investment to be employment."
+      },
+      {
+        "qid": 87,
+        "answer": "Students may be co-founders of a company, but any work performed must be authorized through OPT or CPT. Unauthorized work in one’s own business is prohibited."
+      },
+      {
+        "qid": 88,
+        "answer": "Volunteering must follow federal labor laws. DHS permits unpaid volunteer work only if it meets labor standards and is directly related to the student's degree when used to maintain OPT status."
+      },
+      {
+        "qid": 89,
+        "answer": "Paid speaking engagements count as employment and must meet OPT or STEM OPT eligibility requirements, including relation to the major field of study."
+      },
+      {
+        "qid": 90,
+        "answer": "Students must report each employer’s name, address, and employment dates to their DSO for SEVIS reporting. USCIS does not collect this information directly."
+      },
+      {
+        "qid": 91,
+        "answer": "The 60-day grace period allows remaining in the U.S. after program completion or OPT expiration. USCIS permits departure, SEVIS transfer, or change of status during this period."
+      },
+      {
+        "qid": 92,
+        "answer": "Students may not reenter the U.S. in F-1 status during the grace period, but may travel domestically. USCIS allows only departure or change of status during this time."
+      },
+      {
+        "qid": 93,
+        "answer": "Yes. Students may apply to begin a new F-1 program during the grace period. A new I-20 must be issued, and the SEVIS record must be transferred or a new one created."
+      },
+      {
+        "qid": 94,
+        "answer": "If employment is not secured before OPT ends, the student enters the 60-day grace period. SEVP requires the student to depart, transfer to another school, or apply for a change of status."
+      },
+      {
+        "qid": 95,
+        "answer": "Yes. An F-1 student may request a change of status to B-2 by filing Form I-539 with USCIS before their status expires. Approval is not guaranteed and depends on meeting B-2 eligibility requirements."
+      },
+      {
+        "qid": 96,
+        "answer": "Yes. Students may extend their F-1 status by being admitted to another academic program. A new Form I-20 must be issued before the grace period ends."
+      },
+      {
+        "qid": 97,
+        "answer": "Marriage itself does not affect F-1 status. If applying for permanent residence, the process follows USCIS family-based immigration rules and requires proper filings such as Form I-130 and I-485."
+      },
+      {
+        "qid": 98,
+        "answer": "USCIS does not regulate personal storage or belongings. SEVP only requires students to follow lawful status rules such as departure or transfer during the grace period."
+      },
+      {
+        "qid": 99,
+        "answer": "Volunteering during the grace period is not regulated by USCIS. However, no employment—paid or unpaid—is authorized after OPT ends. The student may remain only for the grace period activities allowed."
+      },
+      {
+        "qid": 100,
+        "answer": "Students may change to H-4 status by filing Form I-539 if they meet eligibility requirements. USCIS processes the request and determines approval based on the spouse’s H-1B status."
+      },
+      {
+        "qid": 101,
+        "answer": "If your SEVIS record is terminated by mistake, your DSO may request data correction through the SEVIS Help Desk. If correction is not possible, the student may need to request reinstatement or obtain a new SEVIS record. USCIS evaluates reinstatement through Form I-539."
+      },
+      {
+        "qid": 102,
+        "answer": "If your I-20 contains an error, your DSO may issue an updated, corrected Form I-20 through SEVIS. SEVP allows DSOs to correct administrative errors directly in SEVIS."
+      },
+      {
+        "qid": 103,
+        "answer": "If your EAD card contains incorrect information due to USCIS error, you may request a replacement at no cost. If the error was in the information you submitted, you must file a new Form I-765 and repay the fee. USCIS determines responsibility based on evidence."
+      },
+      {
+        "qid": 104,
+        "answer": "USCIS allows expedite requests for EADs only under specific criteria such as severe financial loss, emergencies, humanitarian reasons, or USCIS error. Approval is discretionary and not guaranteed."
+      },
+      {
+        "qid": 105,
+        "answer": "If you lose your I-20 while traveling, you must contact your DSO for a new original I-20. To re-enter the U.S., CBP requires the student to carry a physical I-20. Emergency electronic I-20s may be issued when allowed by DHS policy updates."
+      },
+      {
+        "qid": 106,
+        "answer": "If your EAD is lost or stolen, you must file a new Form I-765 and pay the filing fee. USCIS does not replace lost cards for free unless the loss was caused by USCIS error."
+      },
+      {
+        "qid": 107,
+        "answer": "Your passport must remain valid during your stay. If your passport expires before program end, you must renew it with your home country’s embassy or consulate. An invalid passport may affect reentry but not your F-1 status inside the U.S."
+      },
+      {
+        "qid": 108,
+        "answer": "No. The U.S. does not revalidate F-1 visas inside the country. Visa renewal must occur at a U.S. consulate abroad unless the student qualifies for automatic visa revalidation for short trips to Canada or Mexico."
+      },
+      {
+        "qid": 109,
+        "answer": "If USCIS mails your EAD to the wrong address, you may request an address correction and case inquiry. If the error was USCIS’s fault, they may replace the card at no cost. If caused by the student providing an incorrect address, a new I-765 and fee are required."
+      },
+      {
+        "qid": 110,
+        "answer": "If your school made a SEVIS data error, your DSO must correct the mistake through SEVIS data fix processes or contact the SEVIS Help Desk. USCIS does not directly handle SEVIS data corrections."
+      },
+      {
+        "qid": 111,
+        "answer": "If your I-94 shows the wrong status, you must request a correction with CBP through the Deferred Inspection office. CBP, not USCIS, controls I-94 admissions data."
+      },
+      {
+        "qid": 112,
+        "answer": "No. Students may not work while an EAD replacement is pending. USCIS requires a valid EAD for employment during OPT; replacement-pending status does not authorize work."
+      },
+      {
+        "qid": 113,
+        "answer": "If a school closes while you are on F-1 status, SEVP may allow transfer to another SEVP-certified school. Students must maintain status by transferring or departing the U.S. USCIS allows reinstatement only in limited circumstances."
+      },
+      {
+        "qid": 114,
+        "answer": "USCIS requires consistent identity documents. To correct name discrepancies, students must update their passport with their home country and then request updated I-20s, I-94 corrections, or USCIS document corrections as needed."
+      },
+      {
+        "qid": 115,
+        "answer": "If you miss the OPT application deadline, USCIS will deny late filings. SEVP requires students to depart the U.S., transfer to a new program, or seek another legal status if OPT cannot be filed before the program end date."
+      },
+      {
+        "qid": 116,
+        "answer": "Students may request a STEM OPT expedite under USCIS criteria such as severe financial loss or emergencies. Approval is discretionary and follows general USCIS expedite rules, not STEM-specific criteria."
+      },
+      {
+        "qid": 117,
+        "answer": "If an employer refuses to complete Form I-983, you cannot continue STEM OPT with that employer. DHS requires a completed and signed I-983 for all STEM OPT positions."
+      },
+      {
+        "qid": 118,
+        "answer": "Students who violate F-1 status may apply for reinstatement by filing Form I-539 if eligible. USCIS grants reinstatement only if the violation was unintentional and the student continues to pursue academic study."
+      },
+      {
+        "qid": 119,
+        "answer": "If I-9 verification fails due to document issues, the employer must follow federal I-9 procedures. USCIS requires employers to review acceptable documents, and students must provide valid identity and employment authorization documents."
+      },
+      {
+        "qid": 120,
+        "answer": "Yes. Students may appeal or file a motion to reopen or reconsider an OPT denial using Form I-290B. USCIS evaluates the appeal according to the evidence and regulations."
+      },
+      {
+        "qid": 121,
+        "answer": "Failing a class does not automatically violate F-1 status. USCIS requires that students maintain full-time enrollment. If failing a class results in dropping below full-time enrollment, status may be affected unless authorized by DSO."
+      },
+      {
+        "qid": 122,
+        "answer": "Students may take a reduced course load for medical reasons if authorized by a DSO with proper medical documentation. USCIS permits up to 12 months of medical reduced course load per educational level."
+      },
+      {
+        "qid": 123,
+        "answer": "Students may change their major if the school approves it and issues an updated Form I-20. USCIS requires SEVIS records to accurately reflect the major."
+      },
+      {
+        "qid": 124,
+        "answer": "Students may drop to part-time only if the DSO authorizes a reduced course load under USCIS criteria such as academic difficulty or medical reasons. Unauthorized part-time study violates status."
+      },
+      {
+        "qid": 125,
+        "answer": "Program extensions may be granted if the student has a valid academic reason or documented medical condition. USCIS requires the new program end date to be reflected on the I-20 before the current end date expires."
+      },
+      {
+        "qid": 126,
+        "answer": "No. F-1 regulations limit the number of online classes counted toward full-time enrollment. Only one online class per term may count toward the full-time requirement."
+      },
+      {
+        "qid": 127,
+        "answer": "Academic probation does not automatically violate F-1 status. Students remain in status as long as they maintain full-time enrollment and comply with SEVP requirements."
+      },
+      {
+        "qid": 128,
+        "answer": "Students on academic suspension may not maintain F-1 status unless they transfer to another SEVP-certified school before falling out of status. SEVP requires continuous full-time enrollment."
+      },
+      {
+        "qid": 129,
+        "answer": "If you graduate early, your DSO must shorten your I-20 program end date. USCIS requires SEVIS to reflect accurate program dates."
+      },
+      {
+        "qid": 130,
+        "answer": "A gap year is not permitted under F-1 status unless the student is enrolled full time. SEVP requires continuous study to maintain status. Students may depart the U.S. and return with a new I-20 for later studies."
+      },
+      {
+        "qid": 131,
+        "answer": "If your thesis defense is delayed, you may request a program extension from your DSO. USCIS permits extensions for academic reasons if requested before the I-20 end date."
+      },
+      {
+        "qid": 132,
+        "answer": "Yes. Students may audit classes, but audited courses do not count toward full-time enrollment. SEVP requires full-time enrollment to maintain F-1 status."
+      },
+      {
+        "qid": 133,
+        "answer": "Withdrawing from all classes without DSO authorization is a status violation. The student must depart the U.S. or request reinstatement through USCIS if eligible."
+      },
+      {
+        "qid": 134,
+        "answer": "Yes. In the final term, students may drop to part-time enrollment if only part-time coursework is required to complete the program. SEVP allows this exception."
+      },
+      {
+        "qid": 135,
+        "answer": "Retaking classes does not violate status if the student remains enrolled full time. USCIS does not regulate retakes as long as full-time status is maintained."
+      },
+      {
+        "qid": 136,
+        "answer": "Students may take summer classes at another SEVP-certified school if permitted by their home institution. USCIS requires SEVIS records to accurately reflect the primary school of enrollment."
+      },
+      {
+        "qid": 137,
+        "answer": "If a program is discontinued, SEVP requires students to transfer to another certified school or depart the U.S. The DSO must update SEVIS accordingly."
+      },
+      {
+        "qid": 138,
+        "answer": "Yes. F-1 status may be maintained through research-only enrollment if the school considers it full-time study. SEVP allows research-based enrollment if it meets full-time requirements."
+      },
+      {
+        "qid": 139,
+        "answer": "Failing a thesis defense may require program extension or additional enrollment. SEVP requires students to maintain full-time enrollment until program completion."
+      },
+      {
+        "qid": 140,
+        "answer": "Yes. Students may change from PhD to master's if the school authorizes it and updates the I-20. USCIS requires SEVIS to reflect the correct program level."
+      },
+      {
+        "qid": 141,
+        "answer": "No. F-2 spouses may not work under any circumstances. This restriction is mandated by USCIS regulations for F-2 dependents."
+      },
+      {
+        "qid": 142,
+        "answer": "To add a newborn child, the DSO must issue a new Form I-20 for the dependent. The child obtains F-2 status through consular processing or by birth in the U.S. if eligible."
+      },
+      {
+        "qid": 143,
+        "answer": "Yes. F-2 spouses may study part-time in the U.S. Full-time study is permitted only if they change to F-1 status. F-2 children may study full-time in K–12."
+      },
+      {
+        "qid": 144,
+        "answer": "When the F-1 changes to H-1B, dependents may change to H-4 status by filing Form I-539. Their F-2 status ends when the principal changes status."
+      },
+      {
+        "qid": 145,
+        "answer": "Marriage does not automatically grant dependent status. To add a new spouse as an F-2, the school must issue a dependent I-20 and the spouse must obtain an F-2 visa."
+      },
+      {
+        "qid": 146,
+        "answer": "If both individuals are F-1 students, each maintains their own independent SEVIS record. Marriage does not merge or modify F-1 status automatically."
+      },
+      {
+        "qid": 147,
+        "answer": "Yes. F-2 children may attend public school (K–12) without restriction. DHS specifically allows F-2 minors to enroll in elementary and secondary education."
+      },
+      {
+        "qid": 148,
+        "answer": "F-2 dependents follow the status of the F-1. When the F-1 program ends and the grace period expires, F-2 dependents must also depart or change status."
+      },
+      {
+        "qid": 149,
+        "answer": "Yes. Parents may visit the U.S. on B-1/B-2 tourist visas. USCIS does not restrict family visits for F-1 students."
+      },
+      {
+        "qid": 150,
+        "answer": "If the F-1 loses status, F-2 dependents also lose status. SEVP requires dependents to maintain the same lawful status as the principal F-1 student."
+      },
+      {
+        "qid": 151,
+        "answer": "Yes. F-1 students on STEM OPT or OPT may have F-2 dependents. STEM OPT regulations do not restrict dependent sponsorship."
+      },
+      {
+        "qid": 152,
+        "answer": "Divorce terminates eligibility for F-2 status. The dependent spouse must depart the U.S. or obtain another legal status. USCIS requires dependents to maintain valid status independent of personal circumstances."
+      },
+      {
+        "qid": 153,
+        "answer": "Yes. F-2 dependents may travel outside the U.S. independently if they carry their own valid passport, F-2 visa, and I-20."
+      },
+      {
+        "qid": 154,
+        "answer": "USCIS does not regulate health insurance for F-2 dependents, but it is strongly recommended. Only J-1/J-2 dependents have mandatory federal insurance requirements."
+      },
+      {
+        "qid": 155,
+        "answer": "Yes. Children in F-2 status lose eligibility at age 21. They must change to another status, such as F-1, before turning 21 to remain in the U.S."
+      },
+      {
+        "qid": 156,
+        "answer": "Yes. F-2 dependents may obtain a driver’s license using identity and immigration documents. Requirements vary by state but do not conflict with F-2 regulations."
+      },
+      {
+        "qid": 157,
+        "answer": "Unauthorized employment by an F-2 dependent is a violation of status. USCIS may terminate status, and the dependent must depart or change status."
+      },
+      {
+        "qid": 158,
+        "answer": "Yes. F-2 dependents may volunteer only in positions that meet federal labor standards for unpaid volunteer work. USCIS prohibits unpaid 'volunteer' work that is actually employment."
+      },
+      {
+        "qid": 159,
+        "answer": "To prove financial support for F-2 dependents, students must provide documentation to the school for I-20 issuance. USCIS does not directly review financials for dependent I-20 purposes."
+      },
+      {
+        "qid": 160,
+        "answer": "No. F-2 dependents are not eligible for Social Security Numbers because they are not authorized to work. They may apply for an Individual Taxpayer Identification Number (ITIN) for certain tax purposes."
+      },
+      {
+        "qid": 161,
+        "answer": "Yes. F-1 students must file required federal tax forms each year. USCIS requires nonimmigrants to comply with tax obligations. Most F-1 students file Form 8843 and, if they earned U.S. income, Form 1040-NR."
+      },
+      {
+        "qid": 162,
+        "answer": "The five-year rule refers to tax residency. F-1 students are exempt from counting days toward U.S. tax residency for their first five calendar years. This is an IRS rule, not a USCIS rule."
+      },
+      {
+        "qid": 163,
+        "answer": "Yes. F-1 students from treaty countries may claim tax treaty benefits if they meet eligibility criteria. These rules are governed by the IRS and U.S. tax treaties, not USCIS."
+      },
+      {
+        "qid": 164,
+        "answer": "No. Students on OPT do not pay Social Security or Medicare taxes if they are nonresident aliens for tax purposes. This exemption is defined by IRS rules."
+      },
+      {
+        "qid": 165,
+        "answer": "To obtain an SSN, a student must have paid employment and present a job offer letter and I-20 with employment authorization. USCIS requires valid work authorization for SSN issuance."
+      },
+      {
+        "qid": 166,
+        "answer": "Scholarships that exceed tuition may be taxable as income under IRS rules. This does not affect USCIS status but may require filing a tax return."
+      },
+      {
+        "qid": 167,
+        "answer": "Generally no. Nonresident aliens usually cannot claim dependents on U.S. tax returns unless they meet specific IRS exceptions. This is an IRS issue, not a USCIS regulation."
+      },
+      {
+        "qid": 168,
+        "answer": "Yes. State tax returns are filed separately from federal returns. Filing requirements depend on the state’s tax laws, not USCIS rules."
+      },
+      {
+        "qid": 169,
+        "answer": "Failing to file required tax forms does not directly affect immigration status, but IRS noncompliance may impact future immigration benefits. USCIS expects accurate documentation during petitions."
+      },
+      {
+        "qid": 170,
+        "answer": "Yes. Students may open a bank account without an SSN if the bank allows alternative identification. USCIS does not regulate banking eligibility."
+      },
+      {
+        "qid": 171,
+        "answer": "Yes. F-1 students are often eligible for tax refunds depending on tax withholding and treaty benefits. Refunds are governed by IRS rules."
+      },
+      {
+        "qid": 172,
+        "answer": "Yes. Nonresident aliens generally must report U.S.-source income but not foreign-source income. These are IRS rules and unrelated to USCIS."
+      },
+      {
+        "qid": 173,
+        "answer": "Yes. Students on OPT may contribute to retirement accounts if they have employment income. IRS rules determine eligibility; USCIS has no restrictions on saving or investing."
+      },
+      {
+        "qid": 174,
+        "answer": "Form 8843 is required for all F-1 students and dependents, even if they earned no U.S. income. It documents exempt status for tax residency under IRS rules."
+      },
+      {
+        "qid": 175,
+        "answer": "Yes. Students may use tax preparation services or software. IRS Volunteer Income Tax Assistance (VITA) programs may help with nonresident returns."
+      },
+      {
+        "qid": 176,
+        "answer": "CPT and OPT income are taxed the same under IRS rules. USCIS does not regulate taxation, but both are subject to federal and state income tax withholding."
+      },
+      {
+        "qid": 177,
+        "answer": "Yes. Students who earned income in multiple states may need to file tax returns in each state that taxes income. This requirement comes from state tax law, not USCIS."
+      },
+      {
+        "qid": 178,
+        "answer": "Generally no. F-1 nonresident aliens are not eligible for education credits unless they meet IRS exceptions. This is determined by tax law, not immigration law."
+      },
+      {
+        "qid": 179,
+        "answer": "Yes. TA and RA income is considered taxable income under IRS rules. This has no impact on USCIS status as long as employment is authorized by the school."
+      },
+      {
+        "qid": 180,
+        "answer": "A FICA refund applies when Social Security or Medicare taxes were withheld in error from an exempt F-1 student. Refunds may be requested through the employer or IRS Form 843."
+      },
+      {
+        "qid": 181,
+        "answer": "Yes. Students may apply for a green card while on OPT if they meet eligibility through employment or family categories. USCIS evaluates based on the specific petition type, such as I-130 or I-140."
+      },
+      {
+        "qid": 182,
+        "answer": "H-1B is a temporary work visa, while a green card grants permanent residence. USCIS classifies H-1B as a nonimmigrant dual-intent status, whereas permanent residence provides immigrant benefits."
+      },
+      {
+        "qid": 183,
+        "answer": "Yes. After OPT ends, a student may start a business, but they cannot work for it in the U.S. without valid work authorization. USCIS requires employment authorization for any work performed."
+      },
+      {
+        "qid": 184,
+        "answer": "If not selected in the H-1B lottery, the student may continue working only if another work-authorized status is obtained. Otherwise, they must depart, transfer schools, or change status."
+      },
+      {
+        "qid": 185,
+        "answer": "Returning to the U.S. after F-1 status ends requires obtaining a new visa status or a new Form I-20 for a future program. USCIS does not permit reentry in F-1 status after the grace period."
+      },
+      {
+        "qid": 186,
+        "answer": "Degree evaluations may be required for employment-based green card petitions such as EB-2 or EB-3. USCIS requires credential evaluation only when needed to verify degree equivalency."
+      },
+      {
+        "qid": 187,
+        "answer": "EB-2 is for advanced degree holders or persons of exceptional ability. EB-3 is for skilled workers, professionals, or other workers. USCIS determines eligibility based on job requirements and credentials."
+      },
+      {
+        "qid": 188,
+        "answer": "Yes. Individuals may self-petition under EB-1A if they meet USCIS criteria for extraordinary ability, which requires substantial evidence of sustained national or international acclaim."
+      },
+      {
+        "qid": 189,
+        "answer": "Green card processing time varies by category, priority date, and country of chargeability. USCIS and DOS publish visa bulletin availability monthly."
+      },
+      {
+        "qid": 190,
+        "answer": "Yes. Individuals may maintain H-1B status while a green card petition is pending. H-1B is a dual-intent status that permits immigrant intent under USCIS rules."
+      },
+      {
+        "qid": 191,
+        "answer": "The National Interest Waiver allows eligible individuals to self-petition under EB-2 if they demonstrate that their work benefits the United States. USCIS adjudicates NIW applications based on specific criteria."
+      },
+      {
+        "qid": 192,
+        "answer": "Yes. USCIS does not restrict F-1 students from purchasing property such as a house. Property ownership has no impact on immigration status."
+      },
+      {
+        "qid": 193,
+        "answer": "Pursuing a PhD is not required for immigration, but advanced degrees may support eligibility for categories such as EB-2 or EB-1B. USCIS evaluates based on qualifications, not degree level alone."
+      },
+      {
+        "qid": 194,
+        "answer": "If a green card application is employment-based and the applicant loses their job, USCIS may deny the petition unless portability rules apply. Eligibility depends on the specific stage of the process."
+      },
+      {
+        "qid": 195,
+        "answer": "Yes. H-1B workers may work for startups if the employer-employee relationship exists. USCIS requires the employer to have the right to hire, fire, and supervise the worker."
+      },
+      {
+        "qid": 196,
+        "answer": "An H-1B amendment is required if there is a material change in employment, such as worksite location changes, job duty changes, or substantial wage changes. USCIS determines what constitutes a material change."
+      },
+      {
+        "qid": 197,
+        "answer": "Yes. H-1B workers may perform consulting work only if it is for their petitioning employer and meets the employer-employee relationship requirements. USCIS prohibits unauthorized employment for third parties without proper filings."
+      },
+      {
+        "qid": 198,
+        "answer": "Premium processing provides faster adjudication for Form I-129 or I-140 petitions for an additional fee. Regular processing follows standard USCIS timelines."
+      },
+      {
+        "qid": 199,
+        "answer": "No. Volunteering while awaiting work authorization is not permitted if the activity would normally be paid or considered employment. USCIS considers such activity unauthorized employment."
+      },
+      {
+        "qid": 200,
+        "answer": "Students should keep copies of all Forms I-20, I-797 approval notices, EADs, I-94 records, tax documents, passports, and visa stamps. USCIS often requires evidence of past status during future applications."
+      }
+    ]
+            
