@@ -1,0 +1,2 @@
+model,total_questions,correct,partially_correct,incorrect,manual_hallucinations,corrected_hallucinations,avg_correctness_score,avg_hallucination_score,avg_semantic_similarity,overall_manual_accuracy
+Claude,200,89,50,48,13,67,0.7145,0.2521,0.7027,0.57
