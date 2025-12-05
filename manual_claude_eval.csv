@@ -1,0 +1,201 @@
+qid,model,label,hallucination_score,correctness_score,semantic_similarity,explanation
+Q1,Claude,partially_correct,0.2,0.75,0.8,Claude lists the correct core documents but adds inaccurate items like ESTA and non-required documents; core meaning aligns but details are off.
+Q2,Claude,incorrect,0.45,0.4,0.25,Claude fails to state the clear rule that F-1 students cannot enter more than 30 days early and adds irrelevant visa categories.
+Q3,Claude,partially_correct,0.15,0.75,0.8,"Claude correctly states that the I-20 is not activated at the border but implies that entry itself 'starts' status, which is incomplete but not fabricated."
+Q4,Claude,incorrect,0.45,0.45,0.45,"Claude incorrectly states it is not recommended to carry financial documents, contradicting the gold answer’s meaning."
+Q5,Claude,hallucination,0.95,0.05,0.05,"Claude fabricates severe legal consequences for visa expiration, which does not end F-1 status; this is a clear hallucination."
+Q6,Claude,correct,0.0,1.0,0.95,Claude accurately describes F-2 eligibility and requirements; fully aligns with gold.
+Q7,Claude,incorrect,0.5,0.5,0.2,Claude ignores the key point: USCIS does not require health insurance for F-1 students; gives irrelevant country-generic advice.
+Q8,Claude,partially_correct,0.25,0.7,0.75,Claude is right that SEVIS ID appears on the I-20 but incorrectly claims it appears on I-94 or USCIS notices.
+Q9,Claude,incorrect,0.55,0.45,0.2,Claude gives general visa work rules instead of stating clearly that F-1 students cannot work on arrival.
+Q10,Claude,incorrect,0.4,0.45,0.25,Claude gives general relocation advice and misses the SEVIS-mandated school check-in requirement.
+Q11,Claude,correct,0.0,0.95,0.95,Claude correctly states the 1-academic-year rule and the graduate program exception.
+Q12,Claude,hallucination,0.95,0.05,0.0,"Claude states internships do not need to relate to the major, which contradicts core CPT law; clear fabrication."
+Q13,Claude,correct,0.0,0.95,0.95,Claude accurately describes federal part-time CPT rules.
+Q14,Claude,partially_correct,0.2,0.75,0.8,Claude gives reasonable school timelines but misses the key regulatory point that USCIS does not adjudicate CPT.
+Q15,Claude,correct,0.0,0.95,0.95,Claude correctly states a job offer is required before CPT authorization.
+Q16,Claude,partially_correct,0.25,0.7,0.8,Claude is mostly correct but incorrectly introduces hour-limit rules not defined by federal CPT policy.
+Q17,Claude,correct,0.0,1.0,0.95,Claude perfectly matches the OPT-impact rule on 12 months of full-time CPT.
+Q18,Claude,partially_correct,0.3,0.7,0.75,Claude lists many common school-required CPT documents but adds federal documents not mandated by regulation.
+Q19,Claude,correct,0.0,1.0,1.0,Claude states the rule accurately: cannot work until CPT is authorized on the I-20.
+Q20,Claude,hallucination,1.0,0.0,0.0,Claude answers about mental-health therapy CPT instead of Curricular Practical Training; entirely fabricated.
+Q21,Claude,correct,0.0,0.95,0.95,Claude correctly states the earliest OPT filing window and provides accurate additional details.
+Q22,Claude,correct,0.0,1.0,1.0,Claude fully matches the 90-day earliest OPT application rule.
+Q23,Claude,partially_correct,0.2,0.75,0.85,Claude correctly states no job offer is required but introduces an incorrect rule about automatic loss of status after 90 days unemployed.
+Q24,Claude,partially_correct,0.2,0.75,0.8,Claude provides a slightly inflated processing time estimate but stays within reasonable meaning alignment.
+Q25,Claude,partially_correct,0.3,0.7,0.7,"Claude correctly states travel is risky but fails to note that reentry requires EAD + job offer, overstating restrictions."
+Q26,Claude,partially_correct,0.25,0.7,0.75,Claude captures the meaning of an OPT denial but adds a fictional grace-period concept.
+Q27,Claude,correct,0.0,1.0,0.95,Claude correctly states that 12 months of full-time CPT eliminates OPT eligibility.
+Q28,Claude,partially_correct,0.25,0.7,0.8,Claude lists most correct I-765 documents but includes items not required federally such as transcripts.
+Q29,Claude,correct,0.0,0.95,0.95,Claude correctly states students may use any reliable mailing address.
+Q30,Claude,partially_correct,0.3,0.7,0.75,Claude is correct that freelance work is allowed on regular OPT but misses that STEM OPT cannot include self-employment.
+Q31,Claude,correct,0.0,1.0,1.0,Claude accurately states that Computer Science qualifies for STEM OPT.
+Q32,Claude,incorrect,0.55,0.45,0.4,Claude invents a 150-day earliest filing rule; the correct earliest is 90 days before OPT end.
+Q33,Claude,incorrect,0.6,0.4,0.4,Claude incorrectly states students can apply for STEM OPT while unemployed; an E-Verify employer and I-983 are required at filing.
+Q34,Claude,correct,0.0,0.95,0.95,Claude accurately explains the purpose and structure of Form I-983.
+Q35,Claude,correct,0.0,1.0,0.95,Claude correctly describes STEM OPT employer-change requirements.
+Q36,Claude,correct,0.0,1.0,1.0,Claude matches DHS rules: 150 total unemployment days across OPT + STEM.
+Q37,Claude,incorrect,0.6,0.4,0.2,Claude ignores STEM OPT rules and instead explains unrelated E-Verify federal contractor requirements.
+Q38,Claude,hallucination,0.9,0.1,0.2,Claude incorrectly states consulting clients must be E-Verify; STEM OPT forbids independent contracting entirely.
+Q39,Claude,correct,0.0,1.0,1.0,Claude correctly states STEM OPT can be extended only once for 24 months.
+Q40,Claude,incorrect,0.6,0.4,0.3,"Claude incorrectly creates a '60-day grace period' after job loss during STEM OPT; unemployment rules are cumulative, not grace-based."
+Q41,Claude,correct,0.0,0.95,0.97,Claude's answer matches the gold: 90 days for OPT and 150 total with STEM. No fabrications.
+Q42,Claude,incorrect,0.55,0.45,0.1,Claude gives general job-loss advice with no immigration content; fails to mention SEVIS reporting or unemployment limits.
+Q43,Claude,incorrect,0.55,0.4,0.15,"Claude says volunteer work generally does not count, contradicting DHS rules allowing unpaid OPT-related volunteer work."
+Q44,Claude,correct,0.0,0.95,0.95,"Claude clearly states job searching does not count as employment, aligned with DHS guidance."
+Q45,Claude,incorrect,0.5,0.4,0.2,Claude wrongly claims students must provide documents and reasons; DHS only requires accurate SEVIS employment entries.
+Q46,Claude,hallucination,0.95,0.05,0.05,"Claude gives unemployment-benefit info unrelated to F-1 status and ignores the loss-of-status rule, fabricating irrelevant processes."
+Q47,Claude,hallucination,0.95,0.05,0.05,"Claude says gig work 'often' maintains status, which is fabricated; unauthorized gig work violates F-1 rules."
+Q48,Claude,incorrect,0.5,0.4,0.25,Claude gives generic career advice and ignores unemployment-day limits or required immigration actions.
+Q49,Claude,incorrect,0.6,0.35,0.2,"Claude fabricates STEM OPT unemployment rules (claims fresh 90 days), contradicting DHS’s 150-day total cap."
+Q50,Claude,incorrect,0.6,0.35,0.25,Claude gives general visa info unrelated to F-1; fails to mention change-of-status deadlines and requirements.
+Q51,Claude,correct,0.0,0.95,0.95,"Claude’s requirements match DHS travel rules for OPT, including EAD and job proof."
+Q52,Claude,correct,0.0,0.95,0.94,"Accurately lists passport, visa, I-20, EAD, job proof; consistent with DHS guidance."
+Q53,Claude,correct,0.0,0.9,0.92,Correctly explains need for valid F-1 visa except automatic revalidation.
+Q54,Claude,partially_correct,0.25,0.7,0.75,Correct that travel while EAD pending is risky; slightly overstated that reentry requires EAD absolutely.
+Q55,Claude,correct,0.0,0.95,0.95,"Matches DHS guidance: expired visa ok inside U.S., needed only for reentry."
+Q56,Claude,incorrect,0.4,0.45,0.35,Claude claims travel signatures valid for one year; for OPT they are only valid 6 months.
+Q57,Claude,incorrect,0.55,0.4,0.1,Claude avoids answering F-1 rules and gives general visa talk; correct answer is 'No reentry during grace period'.
+Q58,Claude,hallucination,0.95,0.05,0.0,"Claude describes the process for citizens returning to their home country, completely unrelated to F-1 admissions denial."
+Q59,Claude,partially_correct,0.2,0.75,0.7,"General reasoning okay, but misses F-1 requirement that job proof is recommended specifically for OPT travel."
+Q60,Claude,correct,0.0,0.95,0.95,Accurately describes that multiple travel trips are allowed with proper OPT documentation.
+Q61,Claude,partially_correct,0.2,0.75,0.8,Generally correct timeline but gives specific dates not guaranteed; still aligned with April filing window.
+Q62,Claude,partially_correct,0.25,0.7,0.75,"Correct that work stops when STEM expires, but claims no cap-gap coverage, which is inaccurate."
+Q63,Claude,correct,0.0,0.95,0.95,"Claude explains eligibility, purpose, and effect accurately with no errors."
+Q64,Claude,partially_correct,0.25,0.7,0.8,Correct main idea but implies STEM/OPT employment can continue automatically; missing nuance on cap-gap conditions.
+Q65,Claude,partially_correct,0.25,0.7,0.75,"Correct about portability but includes some incorrect requirements (e.g., approval before starting in some cases)."
+Q66,Claude,partially_correct,0.3,0.65,0.7,Some correct appeal info but lacks F-1 cap-gap implications and invents general visa scenarios.
+Q67,Claude,incorrect,0.5,0.45,0.2,"Cap-gap ends on September 30, not October 1, and does not include 60-day extension after denial."
+Q68,Claude,hallucination,0.95,0.05,0.1,Claude fabricates that travel is allowed; USCIS clearly states travel abandons change-of-status during cap-gap.
+Q69,Claude,correct,0.0,0.95,0.9,Accurate: premium processing only accelerates timeline and is optional.
+Q70,Claude,correct,0.0,0.95,0.92,Lists all required H-1B stamping documents accurately.
+Q71,Claude,correct,0.0,0.9,0.88,Claude correctly states remote CPT is allowed if CPT rules are met.
+Q72,Claude,incorrect,0.45,0.4,0.3,Claude gives general employment info; fails to mention SEVIS reporting and immigration relevance.
+Q73,Claude,correct,0.0,0.9,0.9,Accurately describes remote OPT rules with correct DHS constraints.
+Q74,Claude,partially_correct,0.3,0.65,0.75,"Correct that address updates required, but mixes general USCIS rules with nonimmigrant-specific timelines."
+Q75,Claude,incorrect,0.5,0.4,0.2,Claude ignores OPT/S E V I S maintenance rules and gives general remote-work tax guidance.
+Q76,Claude,partially_correct,0.25,0.7,0.75,Correct that the student must use reliable mailing address but incorrectly claims USCIS avoids PO boxes.
+Q77,Claude,correct,0.0,0.9,0.88,Accurately states that remote STEM OPT is allowed with E-Verify and I-983 compliance.
+Q78,Claude,correct,0.0,0.95,0.95,Correctly states that F-1 students must report address changes within 10 days.
+Q79,Claude,incorrect,0.45,0.4,0.3,Claude focuses on general employment tax rules; fails to address OPT regulatory conditions.
+Q80,Claude,incorrect,0.55,0.35,0.2,Claude incorrectly states remote work may jeopardize F-1 status; DHS explicitly permits remote OPT/CPT if requirements are met.
+Q81,Claude,partially_correct,0.25,0.75,0.92,Mostly correct about multiple OPT employers but incorrectly states a 40-hour combined limit which does not exist in regulation.
+Q82,Claude,correct,0.0,1.0,0.95,Accurately states that freelance consulting is allowed if related to field and properly documented.
+Q83,Claude,partially_correct,0.2,0.8,0.88,Correct that business activity requires CPT/OPT authorization but adds unnecessary sections on on-campus businesses and status change.
+Q84,Claude,partially_correct,0.2,0.8,0.9,Accurate about employer reporting but adds CPT and on-campus reporting tangents not in gold.
+Q85,Claude,incorrect,0.5,0.5,0.7,Fails to mention mandatory E-Verify and I-983; implies part-time contracting flexibility that does not meet STEM OPT rules.
+Q86,Claude,incorrect,0.6,0.4,0.45,Provides generic global investment advice and ignores F-1 rules entirely.
+Q87,Claude,partially_correct,0.25,0.75,0.85,"Correct that co-founding is allowed only if work is authorized, but adds speculative conditions about equity vs employment."
+Q88,Claude,partially_correct,0.2,0.75,0.8,Accurately describes volunteer rules but fails to explain OPT-related volunteer constraints.
+Q89,Claude,partially_correct,0.2,0.8,0.85,"Correct that paid speaking is employment, but adds speculative distinctions about frequency."
+Q90,Claude,partially_correct,0.2,0.8,0.9,"Captures employer reporting but adds details not required by USCIS (supervisor info, hours, etc.)."
+Q91,Claude,correct,0.0,1.0,0.95,Accurate summary of 60-day grace period rules.
+Q92,Claude,incorrect,0.5,0.4,0.45,Does not answer F-1 grace period rules and gives generic visa advice.
+Q93,Claude,correct,0.0,1.0,0.95,Accurately describes starting a new program during grace period and SEVIS transfer rules.
+Q94,Claude,partially_correct,0.2,0.8,0.9,Correct description of grace period but adds unrelated status-change options not mentioned in gold.
+Q95,Claude,partially_correct,0.2,0.75,0.85,"Correct that F-1 to B-2 uses I-539, but Claude adds generic visa rules and unnecessary questions."
+Q96,Claude,correct,0.0,1.0,0.9,Accurately states enrolling in a new program extends F-1 with a new I-20.
+Q97,Claude,incorrect,0.6,0.4,0.35,Gold clarifies marriage doesn’t affect F-1 status; Claude incorrectly implies filing I-485 during grace period is standard.
+Q98,Claude,correct,0.0,1.0,0.95,Gold says belongings are not regulated; Claude gives general advice without inventing immigration rules.
+Q99,Claude,partially_correct,0.25,0.75,0.8,Correct about general volunteer rules but fails to note no employment (paid/unpaid) is allowed after OPT ends.
+Q100,Claude,correct,0.0,1.0,0.95,Accurately explains change of status to H-4 using I-539.
+Q101,Claude,incorrect,0.5,0.45,0.5,Claude incorrectly implies DSOs can reinstate records; reinstatement is a USCIS process via I-539.
+Q102,Claude,correct,0.0,1.0,0.95,Correctly states DSO issues a corrected I-20.
+Q103,Claude,correct,0.0,1.0,0.9,Correct distinction between USCIS error vs applicant error on EAD mistakes.
+Q104,Claude,correct,0.0,1.0,0.9,Accurately states EAD expedite criteria.
+Q105,Claude,partially_correct,0.3,0.7,0.8,"Correct that DSO issues a new I-20, but adds embassy and visa renewal guidance not tied to gold."
+Q106,Claude,correct,0.0,1.0,0.9,Matches gold: replacement EAD requires new I-765 and fee.
+Q107,Claude,incorrect,0.5,0.45,0.6,Claims expired passport requires contacting program coordinators and discusses visas—gold explains simple renewal via home embassy only.
+Q108,Claude,correct,0.0,1.0,0.95,Accurate: F-1 visas cannot be renewed in the U.S.
+Q109,Claude,partially_correct,0.2,0.8,0.9,Correct process but adds USPS guidance irrelevant to gold.
+Q110,Claude,partially_correct,0.2,0.8,0.85,"Correct that DSOs correct SEVIS errors but adds student-initiated SEVP cases, which is not standard."
+Q111,Claude,incorrect,0.45,0.55,0.6,"Gold says CBP Deferred Inspection corrects I-94; Claude incorrectly instructs filing I-102, which is unnecessary in most cases."
+Q112,Claude,correct,0.0,1.0,0.9,Accurately states no work is allowed while replacement EAD is pending.
+Q113,Claude,partially_correct,0.25,0.75,0.85,"Correct that transfers are possible, but adds teach-outs and extended grace periods not in gold."
+Q114,Claude,incorrect,0.6,0.4,0.3,Claude gives U.S. domestic name correction processes unrelated to F-1 requirements; gold focuses on passport update then immigration documents.
+Q115,Claude,incorrect,0.5,0.45,0.55,"Gold states late OPT cannot be filed; Claude suggests USCIS may accept late filings, which is false."
+Q116,Claude,correct,0.0,1.0,0.9,"Accurately reflects general expedite criteria for STEM OPT, matching gold."
+Q117,Claude,correct,0.0,1.0,0.95,Correctly states that STEM OPT cannot proceed without a completed I-983.
+Q118,Claude,correct,0.0,1.0,0.95,Accurately describes reinstatement process via I-539.
+Q119,Claude,correct,0.0,1.0,0.9,Correct overview of I-9 rules; aligns with gold.
+Q120,Claude,incorrect,0.45,0.55,0.65,Claude incorrectly claims OPT denials cannot be appealed; gold states motions/appeals via I-290B are allowed.
+Q121,Claude,partially_correct,0.2,0.75,0.82,Mostly accurate but adds unrelated financial aid and academic policies beyond immigration scope.
+Q122,Claude,incorrect,0.4,0.5,0.45,Misses SEVP medical RCL rules and instead describes general university leave policies.
+Q123,Claude,partially_correct,0.2,0.78,0.86,Correct about SEVIS update and new I-20 but adds extra OPT implications not in gold answer.
+Q124,Claude,incorrect,0.4,0.48,0.42,Does not mention that F-1 part-time enrollment requires DSO-authorized RCL and implies it is generally allowed.
+Q125,Claude,partially_correct,0.3,0.72,0.74,"Includes correct extension concept but adds reasons not permitted under F-1 rules, like financial hardship."
+Q126,Claude,correct,0.0,1.0,0.98,Fully aligns with SEVP policy limiting only one online course toward full-time status.
+Q127,Claude,partially_correct,0.2,0.7,0.78,Correct that probation does not break F-1 status but adds irrelevant restrictions unrelated to SEVP.
+Q128,Claude,incorrect,0.5,0.38,0.41,Fails to mention SEVP rules about maintaining status and instead discusses general admissions issues.
+Q129,Claude,correct,0.0,0.95,0.97,Correctly states I-20 shortening requirement and 60-day grace period.
+Q130,Claude,hallucination,0.95,0.1,0.12,"Incorrectly claims a gap year can be maintained on F-1, which contradicts SEVP continuous enrollment rules."
+Q131,Claude,partially_correct,0.25,0.7,0.8,Correct about extension option but adds grace-period defense suggestion not allowed under SEVP.
+Q132,Claude,correct,0.0,0.94,0.93,Fully aligned: auditing is allowed but cannot count toward full-time enrollment.
+Q133,Claude,incorrect,0.55,0.3,0.35,"Fails to mention status violation and reinstatement requirements, focusing only on academic impacts."
+Q134,Claude,incorrect,0.45,0.42,0.38,Ignores SEVP final-term exception allowing part-time enrollment and instead discourages it.
+Q135,Claude,partially_correct,0.2,0.78,0.82,Correct that retaking classes is allowed but omits the F-1 full-time requirement context.
+Q136,Claude,partially_correct,0.25,0.68,0.72,Correct that summer study is allowed but fails to mention SEVP requirement to keep home school as primary SEVIS sponsor.
+Q137,Claude,incorrect,0.7,0.25,0.2,"Completely misses SEVP transfer/departure rules and answers as if about generic programs, not immigration."
+Q138,Claude,correct,0.0,0.93,0.9,Accurately states that research-only enrollment is valid if counted as full-time by the school.
+Q139,Claude,incorrect,0.5,0.35,0.3,Does not address immigration consequences of failing a defense and instead discusses emotional support.
+Q140,Claude,partially_correct,0.25,0.7,0.78,Correct about changing levels but adds unrelated funding and academic policy details.
+Q141,Claude,correct,0.0,0.95,0.97,Fully aligns with USCIS rules that F-2 spouses cannot work.
+Q142,Claude,hallucination,0.9,0.1,0.15,"Incorrectly states F-1 students cannot have dependents, which is a fabricated rule."
+Q143,Claude,partially_correct,0.3,0.7,0.75,Correct that F-2 spouses cannot study full time but incorrectly restricts part-time study to hobby courses.
+Q144,Claude,correct,0.0,0.94,0.96,Accurately describes F-2 dependents changing to H-4 when the F-1 moves to H-1B.
+Q145,Claude,incorrect,0.6,0.32,0.33,Incorrectly states F-1 OPT does not allow dependents when F-2 sponsorship is permitted.
+Q146,Claude,partially_correct,0.25,0.72,0.8,Correct that marriage does not merge records but incorrectly claims F-2 can study full time.
+Q147,Claude,hallucination,0.92,0.15,0.18,Incorrectly states F-2 children cannot attend public K-12 despite DHS explicitly allowing it.
+Q148,Claude,correct,0.0,0.96,0.95,Correctly states F-2 dependents follow F-1 status and must depart after the grace period.
+Q149,Claude,correct,0.0,0.98,0.97,Accurately explains that parents may visit on B-1/B-2 visas with no F-1 restrictions.
+Q150,Claude,correct,0.0,0.95,0.96,Correctly states F-2 dependents lose status when the F-1 loses status.
+Q151,Claude,hallucination,0.85,0.18,0.2,Falsely states you cannot add dependents during OPT or STEM OPT despite regulations allowing it.
+Q152,Claude,correct,0.0,0.9,0.88,Correctly states divorce ends F-2 eligibility and requires change of status or departure.
+Q153,Claude,correct,0.0,0.94,0.92,Correctly states F-2 dependents may travel independently with proper documents.
+Q154,Claude,correct,0.0,0.97,0.94,Accurately states no USCIS insurance requirement for F-2 dependents.
+Q155,Claude,correct,0.0,0.96,0.94,Correctly states F-2 children age out at 21 and must change status or leave.
+Q156,Claude,correct,0.0,0.95,0.92,Correct that F-2 dependents may obtain a driver’s license if they meet state requirements.
+Q157,Claude,partially_correct,0.25,0.7,0.78,Correct about status violation but adds speculation about deportation without regulatory nuance.
+Q158,Claude,partially_correct,0.3,0.65,0.72,Correct that employment-like volunteering is prohibited but overstated limitations.
+Q159,Claude,correct,0.0,0.9,0.88,Matches gold answer that finances are reviewed by the school for dependent I-20 issuance.
+Q160,Claude,hallucination,0.9,0.12,0.18,Incorrectly claims F-2 dependents can qualify for SSNs despite USCIS prohibiting this.
+161,Claude,correct,0.0,1.0,0.97,Claude correctly states that all F-1 students must file taxes and identifies Forms 8843 and 1040-NR; no errors.
+162,Claude,correct,0.0,1.0,0.96,Claude accurately explains the IRS five-year nonresident rule with no contradictions.
+163,Claude,correct,0.0,0.95,0.93,Answer correctly states F-1 students may claim treaty benefits; details are accurate.
+164,Claude,correct,0.0,1.0,0.97,Clearly states nonresident F-1 students do not pay FICA; fully matches IRS rules.
+165,Claude,incorrect,0.55,0.45,0.35,Claude omits F-1 requirement of having employment authorization and a job offer; gives generic SSN rules instead.
+166,Claude,correct,0.0,0.95,0.94,Correctly explains that excess scholarship amounts are taxable; fully aligned with IRS rules.
+167,Claude,incorrect,0.65,0.4,0.3,Nonresident aliens generally cannot claim dependents; Claude incorrectly suggests eligibility using resident rules.
+168,Claude,correct,0.0,1.0,0.98,Accurately states that federal and state taxes are filed separately; fully aligned.
+169,Claude,partially_correct,0.25,0.75,0.82,Claude lists IRS penalties correctly but does not mention immigration implications; still mostly accurate.
+170,Claude,correct,0.0,0.95,0.92,Correctly notes students may open accounts without SSN if the bank allows alternative ID.
+171,Claude,correct,0.0,1.0,0.96,Accurately states F-1 students may receive refunds depending on withholding and treaties.
+172,Claude,incorrect,0.65,0.35,0.3,Gold specifies F-1 nonresidents do NOT report foreign income; Claude gives generic worldwide-tax rules instead.
+173,Claude,correct,0.0,0.95,0.94,Correct that OPT workers may contribute to retirement accounts if they have earned income.
+174,Claude,correct,0.0,1.0,0.97,Accurately explains Form 8843 and confirms all F-1 students must file it even with no income.
+175,Claude,correct,0.0,1.0,0.98,"Correctly states international students may use VITA, software, and advisors."
+176,Claude,incorrect,0.75,0.25,0.22,Claude incorrectly claims CPT and OPT income are taxed differently; IRS treats them identically.
+177,Claude,correct,0.0,0.95,0.93,Correctly explains multi-state tax filing obligations consistent with state tax rules.
+178,Claude,incorrect,0.8,0.2,0.18,Nonresident aliens cannot claim education credits; Claude incorrectly states they can.
+179,Claude,correct,0.05,0.9,0.89,Correctly states TA/RA income is taxable; small nuance issues but overall aligned.
+180,Claude,incorrect,0.7,0.3,0.28,Claude gives generic FICA refund rules and misses the key F-1 exemption and Form 843 process.
+181,Claude,correct,0.0,0.95,0.93,Claude accurately states that green card applications are allowed during OPT and outlines correct pathways.
+182,Claude,correct,0.0,1.0,0.96,Claude clearly distinguishes H-1B (temporary dual-intent) from green card (permanent residence).
+183,Claude,correct,0.05,0.9,0.9,Claude correctly states one cannot work for their own business after OPT without authorization; minor extra details added.
+184,Claude,partially_correct,0.15,0.8,0.82,Claude provides valid options but does not emphasize loss of work authorization without new status.
+185,Claude,correct,0.0,0.95,0.94,Claude aligns with gold: you must obtain a new visa status or new I-20 to return.
+186,Claude,correct,0.0,0.95,0.92,Claude accurately states degree evaluations are needed for EB-2/EB-3 equivalency when applicable.
+187,Claude,correct,0.0,1.0,0.97,Claude gives a fully accurate EB-2 vs EB-3 comparison aligned with USCIS definitions.
+188,Claude,correct,0.0,1.0,0.98,Claude correctly explains EB-1A extraordinary ability self-petition rules and evidence criteria.
+189,Claude,correct,0.05,0.9,0.9,Claude gives generally accurate timeframes; high-level but aligned with visa bulletin logic.
+190,Claude,correct,0.0,1.0,0.98,Claude correctly states H-1B is dual-intent and can be maintained during green card processing.
+191,Claude,correct,0.0,1.0,0.99,Claude’s NIW explanation matches USCIS’ Dhanasar framework perfectly.
+192,Claude,correct,0.05,0.9,0.9,Claude correctly states F-1/OPT students may buy property; minor extraneous notes but no errors.
+193,Claude,correct,0.0,0.95,0.92,Claude correctly explains that a PhD may help but is not required for green card eligibility.
+194,Claude,correct,0.05,0.9,0.9,Claude accurately explains job loss impact depending on I-140/I-485 stage and AC21 portability.
+195,Claude,correct,0.0,0.95,0.94,Claude correctly states H-1B workers may work for startups if employer-employee relationship exists.
+196,Claude,correct,0.0,1.0,0.97,Claude accurately lists all material-change scenarios requiring an H-1B amendment.
+197,Claude,correct,0.0,1.0,0.98,Claude correctly states H-1B workers cannot freelance; only work for petitioning employer or concurrent H-1B.
+198,Claude,incorrect,0.7,0.3,0.22,Claude mixes USCIS premium processing with unrelated payment processing; does not answer immigration question.
+199,Claude,incorrect,0.8,0.25,0.18,Claude incorrectly says volunteering is allowed; F-1/OPT cannot volunteer in a role normally paid.
+200,Claude,partially_correct,0.2,0.8,0.78,"Claude lists many documents but omits specific F-1-required items: all I-20s, I-94s, EADs, I-797s."
